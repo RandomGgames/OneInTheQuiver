@@ -7,4 +7,8 @@ assignees: ''
 
 ---
 
+### What arena is this issue with?
 
+### How many players?
+
+### What is the issue?
